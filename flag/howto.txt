@@ -1,0 +1,7 @@
+##thank you Gofman!! 
+alrighty so were just going to use simple openssl to decrypt this FLAG:
+
+`openssl rsautl -decrypt -in flag.enc -out flag.dec -inkey private.pem`
+
+after that you are done!!! :D
+
